@@ -7,6 +7,6 @@ class Vehicle
   end
 
   def
-
+    
   end
 end
